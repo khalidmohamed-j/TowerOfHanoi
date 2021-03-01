@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerOfHanoi", "TowerOfHanoi.csproj", "{D1B7C58E-7980-4034-8FEC-B2DB1F2FCDEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInterface", "..\UserInterface\UserInterface.csproj", "{073D90F3-8F91-4E47-A211-95007244B8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B7C58E-7980-4034-8FEC-B2DB1F2FCDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B7C58E-7980-4034-8FEC-B2DB1F2FCDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B7C58E-7980-4034-8FEC-B2DB1F2FCDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B7C58E-7980-4034-8FEC-B2DB1F2FCDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073D90F3-8F91-4E47-A211-95007244B8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073D90F3-8F91-4E47-A211-95007244B8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073D90F3-8F91-4E47-A211-95007244B8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073D90F3-8F91-4E47-A211-95007244B8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDCE03D-2726-4621-BD60-DEE6A9A34EE3}
+	EndGlobalSection
+EndGlobal
